@@ -1,5 +1,5 @@
 {
-  "name": "proxy-logger",
+  "name": "@besh/proxy-logger",
   "description": "",
   "main": "proxy-logger.js",
   "scripts": {
