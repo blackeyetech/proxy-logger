@@ -9,11 +9,16 @@
     "type": "git",
     "url": "git+https://github.com/blackeyetech/proxy-logger.git"
   },
-  "keywords": ["besh", "logger", "proxy"],
+  "keywords": [
+    "besh",
+    "logger",
+    "proxy"
+  ],
   "author": "Black Eye Technology",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/blackeyetech/proxy-logger/issues"
   },
-  "homepage": "https://github.com/blackeyetech/proxy-logger#readme"
+  "homepage": "https://github.com/blackeyetech/proxy-logger#readme",
+  "version": "1.0.0"
 }
